@@ -12,7 +12,7 @@ import (
 	"github.com/guonaihong/gout"
 )
 
-var QYWechatGroupBotWebHookURL string = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=70f5d200-03dc-4a29-9a72-f60a1d7ec9e6"
+var QYWechatGroupBotWebHookURL string = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=XXX"
 
 func main() {
 	reader := bufio.NewReader(os.Stdin)
